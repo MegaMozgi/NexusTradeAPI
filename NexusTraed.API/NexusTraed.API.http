@@ -1,0 +1,6 @@
+@NexusTraed.API_HostAddress = http://localhost:5290
+
+GET {{NexusTraed.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
